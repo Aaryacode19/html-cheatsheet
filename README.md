@@ -387,4 +387,20 @@
         <input type="reset" value="Reset">
     </fieldset>
 </form>
+
+# HTML Entity Codes
+
+HTML allows you to represent special characters and symbols using entity codes. For a comprehensive list of named character references, refer to the [HTML Named Character References](https://html.spec.whatwg.org/multipage/named-characters.html) specification.
+
+This specification provides a detailed list of entity codes for characters like `<`, `>`, `&`, quotation marks, special symbols, and more. Using entity codes ensures that characters display correctly across different browsers and devices.
+
+For example:
+- `&lt;` represents `<`
+- `&gt;` represents `>`
+- `&amp;` represents `&`
+- `&quot;` represents `"`
+- `&euro;` represents €
+
+For a complete reference, visit the [HTML Named Character References](https://html.spec.whatwg.org/multipage/named-characters.html) page.
+
 ```
