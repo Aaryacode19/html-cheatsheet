@@ -1,4 +1,7 @@
 # html-cheatsheet
+# Complete HTML Reference
+For a comprehensive reference on HTML elements, attributes, and usage examples, visit the **[Mozilla Developer Network (MDN) HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)**.
+
 ## HTML Boilerplate
 ```html
 <!DOCTYPE html>
