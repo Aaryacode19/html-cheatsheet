@@ -1,6 +1,6 @@
 # html-cheatsheet
 ## HTML Boilerplate
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
