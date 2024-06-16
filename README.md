@@ -1,8 +1,6 @@
 # html-cheatsheet
-```markdown
-# HTML Boilerplate
-
-```html
+## HTML Boilerplate
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
