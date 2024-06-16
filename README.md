@@ -387,6 +387,7 @@
         <input type="reset" value="Reset">
     </fieldset>
 </form>
+```
 
 # HTML Entity Codes
 
@@ -402,5 +403,3 @@ For example:
 - `&euro;` represents €
 
 For a complete reference, visit the [HTML Named Character References](https://html.spec.whatwg.org/multipage/named-characters.html) page.
-
-```
