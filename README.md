@@ -388,7 +388,7 @@ For a comprehensive reference on HTML elements, attributes, and usage examples, 
 </form>
 ```
 
-# HTML Entity Codes
+## HTML Entity Codes
 
 HTML allows you to represent special characters and symbols using entity codes. For a comprehensive list of named character references, refer to the [HTML Named Character References](https://html.spec.whatwg.org/multipage/named-characters.html) specification.
 
