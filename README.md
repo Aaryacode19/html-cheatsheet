@@ -402,3 +402,14 @@ For example:
 - `&euro;` represents €
 
 For a complete reference, visit the [HTML Named Character References](https://html.spec.whatwg.org/multipage/named-characters.html) page.
+Sure! Here's a short message you can use for your GitHub repo:
+
+---
+
+# Contribute to this Cheatsheet!
+
+Welcome to our cheatsheet repository! We encourage contributions from everyone. Whether you want to add new tips, improve existing ones, or fix any errors, your help is appreciated. 
+
+Feel free to fork this repo, make your changes, and submit a pull request. Let's make this cheatsheet better together!
+
+Happy coding!
